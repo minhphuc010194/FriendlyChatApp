@@ -1,4 +1,4 @@
-# friendly_chat_app
+# friendly chat app
 
 A new Flutter project.
 
