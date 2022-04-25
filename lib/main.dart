@@ -14,12 +14,11 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
 class FriendlyChatApp extends StatelessWidget {
   const FriendlyChatApp({
     Key? key,
   }) : super(key: key);
-  
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -31,6 +30,7 @@ class FriendlyChatApp extends StatelessWidget {
     );
   }
 }
+
 class ChatScreen extends StatelessWidget {
   const ChatScreen({Key? key}) : super(key: key);
 
@@ -69,7 +69,6 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: Column(
-
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
@@ -90,3 +89,5 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+//https://codelabs.developers.google.com/codelabs/flutter#4
