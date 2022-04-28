@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/friendly_chat_app/BuildConfig.java
- com.example.friendly_chat_app.BuildConfig
